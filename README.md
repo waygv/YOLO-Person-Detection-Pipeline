@@ -1,6 +1,8 @@
 # YOLO-Person-Detection-Pipeline
 # 🎯 SnapTrack: YOLOv8 Person Detection Pipeline
 
+![image](https://github.com/user-attachments/assets/191a34f0-f357-49af-aaee-5884d62beea1)
+
 A custom video-to-frame-to-detection pipeline built for efficient person detection using YOLOv8. This modular workflow takes raw videos (e.g., from YouTube), trims them into 15-second clips, extracts frames at 5 FPS, and feeds them into a YOLOv8 model for high-accuracy person detection.
 
 ---
