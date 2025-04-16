@@ -1,0 +1,6 @@
+notebook
+opencv-python
+moviepy
+ultralytics
+roboflow
+tqdm
